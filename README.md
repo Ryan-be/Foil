@@ -1,11 +1,9 @@
 # Foil
 Development of high altitude ballon 
 ###################################################################
-#					                                          		          #
-#        GPS controuled cutdown program to be used with           #
-#          the respberry pi and pi in the sky module              #
-#       Ryan Bradley-Evans @University of Leicester 2017          #
-#						  		                                                #		
+       GPS controuled cutdown program to be used with           
+      	 the respberry pi and pi in the sky module              
+       Ryan Bradley-Evans @University of Leicester 2017  		
 ###################################################################
 
 -Created by Ryan Bradley-Evans (rbe3@student.le.ac.uk)
